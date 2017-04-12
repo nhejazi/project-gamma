@@ -3,7 +3,7 @@
 
 _**Group members:**_ Nima Hejazi, Feng Lin, Luyun Zhao, & Xinyue Zhou
 
-_**Topic:**_ [Working Memory in Healthy and Schizophrenic Individuals] (https://openfmri.org/dataset/ds000115)
+_**Topic:**_ [Working Memory in Healthy and Schizophrenic Individuals](https://openfmri.org/dataset/ds000115)
 
 [![Build Status](https://travis-ci.org/berkeley-stat159/project-gamma.svg?branch=master)](https://travis-ci.org/berkeley-stat159/project-gamma?branch=master)
 [![Coverage Status](https://coveralls.io/repos/berkeley-stat159/project-gamma/badge.svg?branch=master)](https://coveralls.io/r/berkeley-stat159/project-gamma?branch=master)
@@ -69,13 +69,13 @@ __'make paper'__ produces the full report describing this research project.
 
 ### Contributers
 
-Nima Hejazi [nhejazi] (https://github.com/nhejazi)
+Nima Hejazi: [@nhejazi](https://github.com/nhejazi)
 
-Feng Lin [LiamFengLin] (https://github.com/LiamFengLin)
+Feng Lin: [LiamFengLin](https://github.com/LiamFengLin)
 
-Luyun Zhao [lynnzhao] (https://github.com/lynnzhao)
+Luyun Zhao: [lynnzhao](https://github.com/lynnzhao)
 
-Xinyue Zhou [z357412526] (https://github.com/z357412526)
+Xinyue Zhou: [z357412526](https://github.com/z357412526)
 
 Very special thanks to [Jarrod Millman] (https://github.com/jarrodmillman), [Matthew Brett] (https://github.com/matthew-brett), [Ross Barnowski] (https://github.com/rossbar), and [J-B Poline] (https://github.com/jbpoline), for your teaching and your invaluable advice over the course of the semester — this project would not have been possible without your help!
 
