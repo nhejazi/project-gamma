@@ -52,11 +52,11 @@ __'make coverage'__ runs the coverage tests and generates the coverage report.
 
 __'make data'__ downloads all the data except for the condition files. Running this takes around 2 hours on average. 
 
-Directory data/ is initially empty, except for 'net_roi.txt', which is from the supplemental material of the reference paper and may be found [at this link] (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3081915/bin/NIHMS253634-supplement-01.pdf). We manually extracted the information from Table S1 and make it available here as 'net_roi.txt'.
+Directory data/ is initially empty, except for 'net_roi.txt', which is from the supplemental material of the reference paper and may be found [at this link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3081915/bin/NIHMS253634-supplement-01.pdf). We manually extracted the information from Table S1 and make it available here as 'net_roi.txt'.
 
 __'make conditionfiles'__ downloads all of the necessary condition files for the analysis.
 
-The reason that downloading the condition files has been made into a separate command is due to the fact that the condition files are bundled together with the fMRI raw data on the [OpenFMRI site] (https://www.openfmri.org/dataset/ds000115/). Due to this, it would take several hours to download these files. Since we only need the condition files and not the rest of the data in the bundle, we have created the separate command to hasten the download process. Also, to improve accessibility, we made the decision to include the condition files (in TXT format) in the data/ directory in the repository. For reproducibility, you can run this command to obtain the same condition files used in the analysis reported.
+The reason that downloading the condition files has been made into a separate command is due to the fact that the condition files are bundled together with the fMRI raw data on the [OpenFMRI site](https://www.openfmri.org/dataset/ds000115/). Due to this, it would take several hours to download these files. Since we only need the condition files and not the rest of the data in the bundle, we have created the separate command to hasten the download process. Also, to improve accessibility, we made the decision to include the condition files (in TXT format) in the data/ directory in the repository. For reproducibility, you can run this command to obtain the same condition files used in the analysis reported.
 
 ### Analysis
 
