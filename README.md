@@ -69,7 +69,7 @@ __'make paper'__ produces the full report describing this research project.
 
 ### Contributers
 
-Nima Hejazi: [@nhejazi](https://github.com/nhejazi)
+Nima Hejazi: [nhejazi](https://github.com/nhejazi)
 
 Feng Lin: [LiamFengLin](https://github.com/LiamFengLin)
 
